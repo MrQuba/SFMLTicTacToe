@@ -1,0 +1,6 @@
+﻿  game.cpp
+C:\Users\Kuba\source\repos\SFMLTicTacToe\SFMLTicTacToe\classes\game.hpp(50,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/game.cpp')
+  
+C:\Users\Kuba\source\repos\SFMLTicTacToe\SFMLTicTacToe\source\game.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFMLTicTacToe.vcxproj -> C:\Users\Kuba\source\repos\SFMLTicTacToe\x64\Debug\SFMLTicTacToe.exe
